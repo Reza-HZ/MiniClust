@@ -42,23 +42,9 @@ MiniClustV1 is a graphical user interface (GUI) for clustering BCR trees using t
     - **Show Trees**: Click the "Show Trees" button to display all trees.
     - **Number of Clusters**: Specify the number of clusters and click the "Show Clusters" button to visualize the clusters with `ete3`.
 
-## Functions
-
-- `run_miniclust()`: Runs the `miniclust` function and saves the output trees and node weights.
-- `run_show_all_trees()`: Visualizes all trees using the specified parameters.
-- `run_plot_with_ete3()`: Plots the clusters using the `ete3` library.
-- `browse_folder()`: Opens a dialog to select a folder.
-- `browse_file(entry_var)`: Opens a dialog to select a file for the given entry variable.
 
 ## Authors
 
 - [Reza Hassanzadeh](https://github.com/Reza-HZ)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-- Special thanks to the developers of the `functionsV1` library for providing essential functions used in this project.
 
