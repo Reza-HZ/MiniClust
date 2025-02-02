@@ -56,7 +56,7 @@ def browse_file(entry_var):
 
 # Create the main window
 root = tk.Tk()
-root.title("MiniClustV0")
+root.title("MiniClustV1")
 root.geometry("450x350")
 
 # Variables
