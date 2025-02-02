@@ -25,7 +25,7 @@ MiniClustV1 is a graphical user interface (GUI) for clustering BCR trees using t
 
 1. Run the `MiniClustV1` GUI:
     ```bash
-    python main.py
+    python gui_miniclustV1.py
     ```
 
 2. Interact with the GUI:
