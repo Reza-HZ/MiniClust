@@ -1,6 +1,6 @@
 # MiniClustV1
 
-MiniClustV1 is a graphical user interface (GUI) for clustering phylogenetic trees using the `miniclust` function. This GUI allows users to select folders, specify output files, and visualize the resulting clusters and trees.
+MiniClustV1 is a graphical user interface (GUI) for clustering BCR trees using the `miniclust` algorithm. This GUI allows users to select folders, specify output files, and visualize the resulting clusters and BCR trees.
 
 ## Installation
 
@@ -29,7 +29,7 @@ MiniClustV1 is a graphical user interface (GUI) for clustering phylogenetic tree
     ```
 
 2. Interact with the GUI:
-    - **Folder**: Select the folder containing the input trees.
+    - **Folder**: Select the folder containing the input BCR trees.
     - **Output Dismat File**: Specify the output dissimilarity matrix file.
     - **Output Cluster File**: Specify the output cluster file.
     - **B Parameter**: Set the value for the B parameter.
