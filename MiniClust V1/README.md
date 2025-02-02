@@ -19,7 +19,16 @@ MiniClustV1 is a graphical user interface (GUI) for clustering BCR trees using t
     - Python 3.x
     - tkinter
     - pickle
-    - functionsV1 (containing miniclust, show_all_trees, and plot_with_ete3)
+    - Bio
+    - biopython
+    - ete3
+    - matplotlib
+    - mplcursors
+    - numpy
+    - pandas
+    - scikit_learn
+    - scipy
+    - screeninfo
 
 ## Usage
 
